@@ -51,7 +51,7 @@
 <a href="https://github.com/DeijoseDevelop">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeijoseDevelop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeijoseDevelop&layout=compact&langs_count=8&theme=algolia"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeijoseDevelop&" alt="DeijoseDevelop" />
+  <!--img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeijoseDevelop&" alt="DeijoseDevelop" /-->
 </a>
 </p>
 
