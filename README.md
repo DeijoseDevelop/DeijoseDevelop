@@ -13,6 +13,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeijoseDevelop&label=Profile%20views&color=0e75b6&style=flat" alt="DeijoseDevelop" /> </p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
