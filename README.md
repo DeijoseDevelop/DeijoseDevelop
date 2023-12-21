@@ -43,7 +43,7 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/DeijoseDevelop">
