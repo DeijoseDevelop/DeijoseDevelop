@@ -6,7 +6,7 @@
 
 💡 &nbsp;I am passionate about exploring new technologies and developing software solutions and quick hacks.\
 🎓 &nbsp; I am currently a software developer with many years of experience, specialized in mobile app development with React Native, Flutter, Native Android, and Native iOS, as well as web development with React and Next.js.\
-🌱 &nbsp;I am constantly learning more about Artificial Intelligence, Systems Design, and Cloud Architecture, enhancing my skills in backend development with Python, Django, Flask, Express, and NestJS.\
+🌱 &nbsp;I am constantly learning more about Artificial Intelligence, Systems Design, and Cloud Architecture, enhancing my skills in backend development with Go (Golang), Fiber, Gin, Python, Django, Flask, Express, and NestJS.\
 ✍️ &nbsp;In my free time, I dedicate myself to improving my skills and sharing knowledge through blog writing and mentoring.\
 💬 &nbsp; Feel free to reach out to me for pro bono consulting and volunteering, or just for an interesting discussion about software development.\
 ✉️ &nbsp;You can send me an email! I will respond as soon as I can.\
