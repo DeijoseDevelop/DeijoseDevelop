@@ -59,6 +59,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deiver-vazquez-1453141b5"><img src="https://img.shields.io/badge/-Deiver%20Vasquez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/deiver-vasquez-1453141b5/"><img src="https://img.shields.io/badge/-Deiver%20Vasquez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:estudiandovazmore@gmail.com"><img src="https://img.shields.io/badge/-estudiandovazmore@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
