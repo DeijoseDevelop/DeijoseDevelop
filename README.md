@@ -2,16 +2,29 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻  &nbsp;About Me
 
-💡 &nbsp;I am passionate about exploring new technologies and developing software solutions and quick hacks.\
-🎓 &nbsp; I am currently a software developer with many years of experience, specialized in mobile app development with React Native, Flutter, Native Android, and Native iOS, as well as web development with React and Next.js.\
-🌱 &nbsp;I am constantly learning more about Artificial Intelligence, Systems Design, and Cloud Architecture, enhancing my skills in backend development with Go (Golang), Fiber, Gin, Python, Django, Flask, Express, and NestJS.\
-✍️ &nbsp;In my free time, I dedicate myself to improving my skills and sharing knowledge through blog writing and mentoring.\
-💬 &nbsp; Feel free to reach out to me for pro bono consulting and volunteering, or just for an interesting discussion about software development.\
-✉️ &nbsp;You can send me an email! I will respond as soon as I can.\
+💡  I am a passionate Software Engineer, Open Source Architect, and the Creator of the Nix.js Ecosystem.
+🚀  I specialize in building high-performance web and mobile applications, constantly pushing the boundaries of what's possible with modern JavaScript and fine-grained reactivity.
+🎓  Beyond building my own frameworks, I have years of professional experience developing scalable mobile apps (React Native, Flutter, Native Android/iOS) and full-stack web solutions (React, Next.js, Go, Python, Node.js).
+🌱  Currently diving deeper into Artificial Intelligence, Systems Design, and Cloud Architecture to build smarter, faster backends.
+✍️  In my free time, I dedicate myself to open-source development, improving my skills, and sharing knowledge through mentoring.
+💬  Feel free to reach out to me for pro bono consulting, open-source collaborations, or just a deep dive into software architecture!
+✉️  You can send me an email! I will respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🌌  The Nix.js Ecosystem
+
+I am the proud creator and core maintainer of Nix.js, a next-generation approach to building reactive UIs without the bloat of a Virtual DOM or compiler.
+
+⚡ **Nix.js:** A blazing-fast, signal-based reactive micro-framework. Zero virtual DOM, no compiler. Ships with a built-in router, global stores, portals, and forms in just ~10 KB gzipped.
+
+📱 **Nix-Ionic:** A powerful bridge bringing Nix.js reactivity to native-quality mobile apps using the official Ionic Core components with modular, tree-shakeable loading.
+
+🎨 **Nix UI:** A beautifully designed, highly optimized component library for Nix.js, powered by Tailwind CSS v4 and fully animated out of the box.
+
+🛠️ **create-nix-app:** The official CLI tool to scaffold and bootstrap Nix.js projects instantly.
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=DeijoseDevelop&label=Profile%20views&color=0e75b6&style=flat" alt="DeijoseDevelop" /> </p-->
 
@@ -45,6 +58,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)&nbsp;
+
 
 ### 📊 &nbsp;GitHub Analytics
 
