@@ -4,7 +4,7 @@
 
 ## 👨🏻‍💻  &nbsp;About Me
 
-💡  I am a passionate Software Engineer, Open Source Architect, and the Creator of the Nix.js Ecosystem.
+💡  I am a passionate Software Engineer, Open Source Architect, and the Creator of the ElurJS Ecosystem.
 🚀  I specialize in building high-performance web and mobile applications, constantly pushing the boundaries of what's possible with modern JavaScript and fine-grained reactivity.
 🎓  Beyond building my own frameworks, I have years of professional experience developing scalable mobile apps (React Native, Flutter, Native Android/iOS) and full-stack web solutions (React, Next.js, Go, Python, Node.js).
 🌱  Currently diving deeper into Artificial Intelligence, Systems Design, and Cloud Architecture to build smarter, faster backends.
@@ -14,17 +14,17 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🌌  The Nix.js Ecosystem
+### 🌌  The ElurJS Ecosystem
 
-I am the proud creator and core maintainer of Nix.js, a next-generation approach to building reactive UIs without the bloat of a Virtual DOM or compiler.
+I am the proud creator and core maintainer of ElurJS, a next-generation approach to building reactive UIs without the bloat of a Virtual DOM or compiler.
 
-⚡ **Nix.js:** A blazing-fast, signal-based reactive micro-framework. Zero virtual DOM, no compiler. Ships with a built-in router, global stores, portals, and forms in just ~10 KB gzipped.
+⚡ **ElurJS:** A blazing-fast, signal-based reactive micro-framework. Zero virtual DOM, no compiler. Ships with a built-in router, global stores, portals, and forms in just ~10 KB gzipped.
 
-📱 **Nix-Ionic:** A powerful bridge bringing Nix.js reactivity to native-quality mobile apps using the official Ionic Core components with modular, tree-shakeable loading.
+📱 **Nix-Ionic:** A powerful bridge bringing ElurJS reactivity to native-quality mobile apps using the official Ionic Core components with modular, tree-shakeable loading.
 
-🎨 **Nix UI:** A beautifully designed, highly optimized component library for Nix.js, powered by Tailwind CSS v4 and fully animated out of the box.
+🎨 **Nix UI:** A beautifully designed, highly optimized component library for ElurJS, powered by Tailwind CSS v4 and fully animated out of the box.
 
-🛠️ **create-nix-app:** The official CLI tool to scaffold and bootstrap Nix.js projects instantly.
+🛠️ **create-nix-app:** The official CLI tool to scaffold and bootstrap ElurJS projects instantly.
 
 <!--p align="left"> <img src="https://komarev.com/ghpvc/?username=DeijoseDevelop&label=Profile%20views&color=0e75b6&style=flat" alt="DeijoseDevelop" /> </p-->
 
