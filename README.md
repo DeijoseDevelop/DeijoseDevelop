@@ -1,4 +1,4 @@
-&lt;img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/&gt;&lt;h2&gt;Hey there! I'm Deiver&lt;/h2&gt;
+<div style="display:flex;align-items:center;"><img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Deiver</h2></div>
 
 ## 👨🏻‍💻  &nbsp;About Me
 
@@ -18,13 +18,13 @@
 
 ✉️  You can send me an email! I will respond as soon as I can.
 
-&lt;img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/&gt;
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🌌  The Elur Ecosystem
 
 I am the proud creator and core maintainer of **Elur**, a next-generation approach to building reactive UIs — fine-grained signals, zero Virtual DOM, and no compiler required. Fully written in strict TypeScript, with zero runtime dependencies and 817+ tests.
 
-⚡ **Elur (v4.0.1):** A blazing-fast, signal-based reactive framework. No Virtual DOM, no mandatory compiler, `html`` templates with surgical DOM updates. **v4 introduces a rewritten push-pull versioned reactive engine** — glitch-free by construction, truly lazy computeds, and real ownership with O(1) subtree disposal. Ships with a built-in router, global stores, forms, suspense and portals. Scored **1.13 on the js-framework-benchmark (Chrome 152)** — top tier alongside SolidJS.
+⚡ **Elur (v4.0.1):** A blazing-fast, signal-based reactive framework. No Virtual DOM, no mandatory compiler, `html`` templates with surgical DOM updates. **v4 introduces a rewritten push-pull versioned reactive engine** — glitch-free by construction, truly lazy computeds, and real ownership with O(1) subtree disposal. Ships with a built-in router, global stores, forms, suspense and portals in ~15 KB (gzipped). Scored **1.13 on the js-framework-benchmark (Chrome 152)** — top tier alongside SolidJS.
 
 🧩 **Elur Kit:** The official meta-framework — file-based routing, SSR / SSG / ISR, server actions with idempotency, smart caching (SWR), security headers, and deploy adapters for Node, Bun, Vercel and Netlify.
 
@@ -76,16 +76,16 @@ I am the proud creator and core maintainer of **Elur**, a next-generation approa
 
 ### 📊 &nbsp;GitHub Analytics
 
-&lt;p align="center"&gt;
-&lt;a href="https://github.com/DeijoseDevelop"&gt;
-  &lt;img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeijoseDevelop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/&gt;
-  &lt;img height="380em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DeijoseDevelop&layout=compact&langs_count=15&theme=algolia&hide=python"/&gt;
-&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+<a href="https://github.com/DeijoseDevelop">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeijoseDevelop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeijoseDevelop&layout=compact&langs_count=15&theme=algolia&hide=python"/>
+</a>
+</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-&lt;p align="center"&gt;
-&lt;a href="https://www.linkedin.com/in/deiver-vasquez-1453141b5/" target="_blank"&gt;&lt;img src="https://img.shields.io/badge/-Deiver%20Vasquez-0077B5?style=flat&logo=Linkedin&logoColor=white"/&gt;&lt;/a&gt;
-&lt;a href="mailto:estudiandovazmore@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/-estudiandovazmore@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+<a href="https://www.linkedin.com/in/deiver-vasquez-1453141b5/" target="_blank"><img src="https://img.shields.io/badge/-Deiver%20Vasquez-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:estudiandovazmore@gmail.com"><img src="https://img.shields.io/badge/-estudiandovazmore@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
